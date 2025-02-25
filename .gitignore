@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/target/**
+mvnw
+compiler.xml
+encodings.xml
+jarRepositories.xml
+misc.xml
+mvnw.cmd
